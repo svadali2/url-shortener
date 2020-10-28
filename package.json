@@ -1,0 +1,28 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "sample url shortener",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.10",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svadali2/url-shortener.git"
+  },
+  "author": "soumitri vadali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svadali2/url-shortener/issues"
+  },
+  "homepage": "https://github.com/svadali2/url-shortener#readme"
+}

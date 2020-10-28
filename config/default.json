@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@cluster0.ebtsv.mongodb.net/url-shortener?retryWrites=true&w=majority",
+    "baseURL" : "http://localhost:8000/v1",
+    "allowedClick" : 10
+}
